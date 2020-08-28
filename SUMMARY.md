@@ -32,7 +32,8 @@
 
 * [Terminal](w2/terminal.md)
 * [Запускаем веб проект](w2/zapuskaem-veb-proekt.md)
-* [SPA & REST API](w2/spa-and-rest-api.md)
+* [SPA & REST API](w2/spa-and-rest-api/README.md)
+  * [REST API](w2/spa-and-rest-api/rest-api.md)
 * [Сетевые протоколы](w2/net-protocols/README.md)
   * [Стек сетевых протоколов](w2/net-protocols/layers.md)
   * [Детальный оґляд HTTP протоколу](w2/net-protocols/http.md)
